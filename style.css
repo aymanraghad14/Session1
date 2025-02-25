@@ -1,0 +1,100 @@
+body{
+        margin: 0;
+        padding: 0%;
+      background-color:"gray";
+}
+.products{
+ 
+        width:90%;
+        height: 400px;
+        background-color:gray ;
+        margin: 50px;
+       
+
+
+}
+.product{
+        width: 24%;
+        height: 100%;
+        background-color: palevioletred;
+        float:left;
+        margin-left: 10px;
+        text-align: center ;
+     
+}
+.product-img{
+
+        width: 100%;
+        height:60%;
+        margin:2px;
+}
+
+.product h3{
+              color: gray;
+
+}
+
+.product a{
+        color: black;
+      
+text-decoration: none;
+}
+
+.product a:hover{
+        color: pink;
+      
+
+}
+.header {
+
+        background-color:palevioletred;
+        text-align: center;
+        padding: 40px;
+        color: gray;
+      }
+
+      .topnav {
+        overflow: hidden;
+        background-color: gray;
+      }
+      
+     
+      .topnav a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      
+      .topnav a:hover {
+        background-color: pink;
+        color:black;
+      }
+       
+
+   
+      .myDiv {
+        height: 400%;
+        width: 100%;
+        border: 10px outset palevioletred;
+        background-color: silver;    
+        text-align: center;
+      }
+
+
+      .myDiv :hover{
+        background-color: gray;
+      }
+
+      .toDiv {
+        height: 100%;
+        width: 80%;
+        border: 10px outset palevioletred;
+        background-color: silver;    
+        text-align: center;
+        text-decoration: wavy;
+      }
+        
