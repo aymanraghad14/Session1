@@ -34,4 +34,4 @@ Folder Structure
 │   ├── style.css       # Main stylesheet  
 │── /images             # Product images & assets
 
-                                                     This website is made with love <3.
+                                                     This website is made with love.
