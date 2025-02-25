@@ -12,9 +12,13 @@ Overview
 Features
 
 ✅ Fully Responsive Design – Works on all screen sizes.
+<br>
 ✅ Pure HTML & CSS – No JavaScript or backend required.
+<br>
 ✅ Modern & Elegant UI – Clean, aesthetic design for a great user experience.
+<br>
 ✅ Product Showcase – Well-structured product gallery with hover effects.
+<br>
 ✅ Navigation Bar – Smooth and accessible menu for easy browsing.
 
 
@@ -30,4 +34,4 @@ Folder Structure
 │   ├── style.css       # Main stylesheet  
 │── /images             # Product images & assets
 
-                                                     This website is made with love.
+                                                     This website is made with love <3.
